@@ -1,4 +1,4 @@
-<div align="center">
+<div id='tittle' align="center">
 
     <img alt="TaskLab" src="git_images/capture.png">
     <h1 align="center">TaskLab</h1>
