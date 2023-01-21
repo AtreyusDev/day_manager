@@ -35,10 +35,10 @@
     <p>Controller: In this folder we have the controller.py | This archive makes all the management for the app. Receive the information from app.py and connect_bd.py and sends the information between they too.</p>
     <p>Model: In this folder we have the connect_bd.py | This archive contains all the database query methods. Creates the connection with the database and sends the data to controller.py</p>
     <p>View: In this folder we have the app.py | This archive is responsible for create the root and all the widgets for the app. It is just for the frontend.</p>
+    <h3>ALERT: The database of this app was created on a local server. Doesn´t matter, you can edit the connection in connect_bd.py for choose the server that you going to use.👍</h3>
 </div>
 <div id="contact" align="center">
     <hr>
-    <br>
     <h1>✉Contact📞</h1>
     <br>
     <h2>📩e-mail = jizdsing@gmail.com | 📱 Whatsapp = <a href="https://wa.me/584142383498">+584142384398</a></h2>

@@ -13,7 +13,7 @@ class DAO(): #DATA ACCES OBJECT
         # The connection is covered by a try-catch block for check the connection status.
         try: 
             self.connect = psycopg2.connect( # This variable allows the connection with the database...
-                dbname='TaskList',
+                dbname='TaskList', # IF YOU WANT TO USE YOUR DATABASE, JUST EDIT THIS VARIABLE WITH YOUR DATABASE DATA.
                 user='postgres',
                 password='Asia_27.',
                 host='localhost',
