@@ -2,7 +2,7 @@
     <h1 align="center">TaskLab</h1>
     <img alt="TaskLab" src="git_images/capture.png">
     <br>
-    <p>Task Lab is a "day manager". This app can register your tasks for allow you to organizate your time.</p>
+    <p>TaskLab is a "day manager". This app can register your tasks to let you to organize your time.</p>
 </div>
 
 <div id='content' align="left">
