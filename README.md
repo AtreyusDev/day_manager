@@ -1,12 +1,11 @@
 <div id="description" align="center">
-    <h1 align="center" color="#7FFFD9">TaskLab</h1>
+    <h1 align="center">TaskLab</h1>
     <img alt="TaskLab" src="git_images/capture.png">
     <br>
     <p>Task Lab is a "day manager". This app can register your tasks for allow you to organizate your time.</p>
 </div>
 
 <div id='content' align="left">
-    <br>
     <hr>
     <h2 align="center">Content📥</h2>
     <p>The app contains a simple interface where you can add, edit, update and delete (CRUD) your task.</p>
