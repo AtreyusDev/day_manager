@@ -1,10 +1,10 @@
-<div align="center"
+<div align="center">
 
     <img alt="TaskLab" src="git_images/capture.png">
     <h1 align="center">TaskLab</h1>
     <p>Task Lab is a "day manager". This app can register your tasks for allow you to organizate your time.</p>
     <br>
-></div>
+</div>
 
 <div align="left">
 
