@@ -1,13 +1,13 @@
 <div id="description" align="center">
     <h1 align="center" color="#7FFFD9">TaskLab</h1>
     <img alt="TaskLab" src="git_images/capture.png">
+    <br>
     <p>Task Lab is a "day manager". This app can register your tasks for allow you to organizate your time.</p>
 </div>
 
 <div id='content' align="left">
     <br>
     <hr>
-    <br>
     <h2 align="center">Content📥</h2>
     <p>The app contains a simple interface where you can add, edit, update and delete (CRUD) your task.</p>
     <h3>Treeview</h3>
@@ -29,7 +29,7 @@
     <br>
     <p>This App was developed with the Model-View-Controller(MVC) design pattern.</p>
     <p>All the code was writed trying to have the clean code tips. You will see comments on the code that will help you to understand how the code works.</p>
-    <img alt="Folders" src="git_images/capture4">
+    <img alt="Folders" src="git_images/capture4.png">
     <br>
     <p>Has you can see, we have 3 folders: Model, View and Controller. Lastly, a execute.py</p>
     <br>
